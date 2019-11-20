@@ -1,2 +1,2 @@
-# Pizzapy
-Pizzapy Project
+# Pizzapy Database
+Pizzapy Database setup in SQL Server
